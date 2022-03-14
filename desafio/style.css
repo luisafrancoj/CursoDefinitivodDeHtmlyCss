@@ -1,0 +1,37 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.principal-container {
+  margin-left: 30px;
+}
+
+.title {
+  position: relative;
+  background-color: pink;
+  width: 300px;
+  height: 60px;
+  border-radius: 16px;
+  text-align: center;
+  padding-top: 20px;
+  border: 1px solid black;
+  top: 170px;
+  left: 25%;
+  z-index: 1;
+}
+
+.text {
+  position: relative;
+  top: 150px;
+  left: 36px;
+  background-color: grey;
+  width: 600px;
+  min-height: 60px;
+  border-radius: 16px;
+  text-align: center;
+  padding: 32px 20px;
+  color: white;
+  border: 1px solid black;
+}

@@ -1,0 +1,39 @@
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+h1 {
+  font-family: serif;
+  color:pink;
+  margin-bottom: 10px;
+}
+
+.tittle{
+  font-size: 18px;
+  font-family: monospace;
+
+}
+
+.nav {
+  margin-top:10px;
+  list-style: none;
+  padding-left: 0;
+}
+
+.nav li{
+  display: inline-block
+}
+
+.nav a{
+  color: white;
+  background: #13a4a4;
+  padding: 5px;
+  border-radius: 2px;
+  text-decoration: none;
+}
+
+.nav .blog{
+  background: orange;
+}

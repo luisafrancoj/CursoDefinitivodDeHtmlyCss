@@ -1,0 +1,23 @@
+
+/*FORMAS DE LLAMAR LOS ESTILOS DE CSS*/
+
+/*    POR ELEMENTO */
+      p {
+      color: pink;
+      font-size: 40px;
+    }
+
+/*POR CLASE*/
+    .parrafo {
+      color: blue;
+    }
+
+/*POR ID*/
+    #texto {
+      color: green;
+      font-size: 24px;
+    }
+
+
+
+
